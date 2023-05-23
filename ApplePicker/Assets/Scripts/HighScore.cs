@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI; // Напомню, эта библиотека нужна для работы с ГИП.
 public class HighScore : MonoBehaviour
 {
-    static public int score = 1000;
+    static public int score = 0;
     void Awake()
     { 
       // Если значение HighScore уже существует в PlayerPrefs, прочитать его

@@ -306,6 +306,7 @@
 "Assets/Scripts/AppleTree.cs"
 "Assets/Scripts/Basket.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/GameOver.cs"
 "Assets/Scripts/HighScore.cs"
 "Assets/Scripts/KeyStart.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
